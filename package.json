@@ -1,0 +1,10 @@
+{
+  "name": "jotergolf",
+  "version": "1.0.0",
+  "private": true,
+  "main": "Server.js",
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^2.5.1"
+  }
+}
